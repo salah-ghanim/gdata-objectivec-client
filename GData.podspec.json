@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/salah-ghanim/gdata-objectivec-client.git",
-    "tag": "gdata-objectivec-client-1.9.1"
+    "tag": "v1.9.1"
   },
   "dependencies": {
     "gtm-http-fetcher": [
